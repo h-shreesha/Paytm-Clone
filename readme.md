@@ -2,9 +2,10 @@
 
 By Shreesha
 
-Here's the Live Deployed Website ![Paytm Clone](https://img.shields.io/badge/Project-3-brightgreen)
+Here's the Live Deployed Website ![Paytm Clone](https://img.shields.io/badge/Paytm-Clone-brightgreen)
 
-## [DEPLOYED WEBSITE LINK](https://live-class-project03.netlify.app/)
+
+## [DEPLOYED WEBSITE LINK](https://paytm-clone-tailwindcss-jsbootcamp.netlify.app/)
 
 ![Completed Website](./readmeImages/websitesnap.png)
 
